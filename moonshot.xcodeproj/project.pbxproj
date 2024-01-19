@@ -25,6 +25,7 @@
 		F615886E2B5A276C009B6E08 /* missionGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = F615886D2B5A276C009B6E08 /* missionGrid.swift */; };
 		F61588702B5A2C6A009B6E08 /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = F615886F2B5A2C6A009B6E08 /* Color-Theme.swift */; };
 		F61588742B5A2EEC009B6E08 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61588732B5A2EEC009B6E08 /* MissionView.swift */; };
+		F61588762B5A5488009B6E08 /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61588752B5A5488009B6E08 /* AstronautView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		F615886D2B5A276C009B6E08 /* missionGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = missionGrid.swift; sourceTree = "<group>"; };
 		F615886F2B5A2C6A009B6E08 /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		F61588732B5A2EEC009B6E08 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
+		F61588752B5A5488009B6E08 /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		F61587952B59BCA7009B6E08 /* moonshot */ = {
 			isa = PBXGroup;
 			children = (
+				F61588752B5A5488009B6E08 /* AstronautView.swift */,
 				F61588732B5A2EEC009B6E08 /* MissionView.swift */,
 				F615886B2B5A2569009B6E08 /* mission.swift */,
 				F61587B72B5A226A009B6E08 /* Astronaut.swift */,
@@ -187,6 +190,7 @@
 				F615886E2B5A276C009B6E08 /* missionGrid.swift in Sources */,
 				F61587B82B5A226A009B6E08 /* Astronaut.swift in Sources */,
 				F61587A52B59BD4B009B6E08 /* resizeImage.swift in Sources */,
+				F61588762B5A5488009B6E08 /* AstronautView.swift in Sources */,
 				F61587A72B59D9F1009B6E08 /* scrollView.swift in Sources */,
 				F61587B12B5A2121009B6E08 /* astronautProj.swift in Sources */,
 				F61587AF2B59E36D009B6E08 /* grids.swift in Sources */,
